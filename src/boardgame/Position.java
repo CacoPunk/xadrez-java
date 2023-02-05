@@ -32,12 +32,12 @@ public class Position {
 	}
 
 
-	public int getComumn() {
+	public int getColumn() {
 		return column;
 	}
 
 
-	public void setComumn(int column) {
+	public void setColumn(int column) {
 		this.column = column;
 	}
 	
